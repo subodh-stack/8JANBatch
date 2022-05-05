@@ -18,7 +18,7 @@ public class SampleTest {
 	
 	@Test(dependsOnMethods = {"test1"})
 	public void test2() {
-		System.out.println("Hello");
+		System.out.println("Helloeveryone");
 	}
 	
 	@Test
